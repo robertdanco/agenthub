@@ -1,0 +1,9 @@
+# Binaries
+/agenthub-server
+/ar-hub
+
+# Data directory
+data/
+
+# OS
+.DS_Store
